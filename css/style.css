@@ -11,7 +11,8 @@ body {background:url(../images/bg_top.png) 0 0 repeat-x #000;border:0;font:14px 
 .css3{border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);position:relative}
 /* Global Structure ============================================================= */
 .main {margin:0 auto;	width:960px;position:relative}
-.bg1 {background:#090909}
+/*.bg1 {background:#090909}*/
+.bg1 {background:#727272} /*background segundo contenido*/
 /* ============================= main layout ====================== */
 a {color:#00a5e6;text-decoration:none;outline:none} /*color de los titulos de los menus y titulos botones paginas principal*/
 a:hover {color:#fff}
@@ -22,7 +23,7 @@ h3.color1 {padding:0 0 7px 0}
 p {padding-bottom:24px}
 /* ============================= header ====================== */
 header {height:179px}
-#page1 header {height:662px}
+#page1 header {height:690px} /*tamaño pagina*/ 
 #logo {display:block;text-indent:-9999px;background:url(../images/logo.png) 0 0 no-repeat;width:400px;height:100px}
 #search {float:right;padding:50px 10px 0 0 }
 #search .bg {background:url(../images/search.png) 0 0 no-repeat;width:220px;height:23px}
@@ -33,7 +34,7 @@ header {height:179px}
 #menu > li > a {width:188px;display:block;font-size:17px;color:#fff;text-transform:uppercase;font-weight:400;height:61px;line-height:58px;border-top:1px solid #1f1f1f;background:#000;text-align:center;border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;-webkit-border-radius:4px 4px 0 0;position:relative}
 #menu > li > a:hover, #menu > .active > a {background:#4169a4;border-color:#2f9cba} /*color de los bloques superiores de la pagina*/
 #menu > li > a span {display:block;position:relative}
-#slider {position:absolute;top:250px;left:0;width:100%;height:453px;overflow:hidden;z-index:1}
+#slider {position:absolute;top:250px;left:0;width:100%;height:453px;overflow:hidden;z-index:1} /*ubicacion imagenes cambiantes*/
 .items {display:none}
 .pagination {position:absolute;bottom:82px;right:274px;z-index:2}
 .pagination li {float:left;padding-left:3px}
