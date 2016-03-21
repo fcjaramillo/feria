@@ -12,7 +12,7 @@ body {background:url(../images/bg_top.png) 0 0 repeat-x #000;border:0;font:14px 
 /* Global Structure ============================================================= */
 .main {margin:0 auto;	width:960px;position:relative}
 /*.bg1 {background:#090909}*/
-.bg1 {background:#c88928} /*background segundo contenido*/
+.bg1 {background:#727272} /*background segundo contenido*/
 /* ============================= main layout ====================== */
 a {color:#00a5e6;text-decoration:none;outline:none} /*color de los titulos de los menus y titulos botones paginas principal*/
 a:hover {color:#fff}
@@ -70,7 +70,7 @@ figure {padding-top:2px}
 .address span {float:left;width:88px}
 .address a {text-decoration:underline}
 /* ============================= footer ====================== */
-footer  {padding:49px 20px 0;height:150px}
+footer  {padding:49px 20px 0;height:98px}
 footer a {color:#808080}
 footer a:hover {color:#fff}
 #icons {width:184px;float:right}
