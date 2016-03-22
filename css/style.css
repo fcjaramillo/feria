@@ -16,7 +16,7 @@ body {background:url(../images/bg_top.png) 0 0 repeat-x #000;border:0;font:14px 
 /* ============================= main layout ====================== */
 a {color:#00a5e6;text-decoration:none;outline:none} /*color de los titulos de los menus y titulos botones paginas principal*/
 a:hover {color:#fff}
-h1 {padding:39px 0 0 9px;float:left}
+h1 {padding:39px 0 0 10px;float:left}
 h2 {font-size:33px;color:#fff;font-weight:700;line-height:1.2em;padding:30px 0 11px 0;letter-spacing:-1px}
 h3 {font-size:27px;color:#fff;font-weight:700;line-height:1.2em;padding:33px 0 17px 0;letter-spacing:-1px}
 h3.color1 {padding:0 0 7px 0}
@@ -66,7 +66,7 @@ header {height:179px}
 .list2{}
 .list2 li {padding-left:15px;background:url(../images/marker_1.png) 0 9px no-repeat;padding-bottom:12px}/*Botones pequeños menus*/
 figure {padding-top:2px}
-.dropcap_1 {float:left;background:url(../images/dropcap_1.png) 0 0 no-repeat;width:45px;height:45px;text-align:center;font-size:33px;line-height:42px;color:#fff;font-weight:700;margin-right:15px;margin-top:2px;margin-bottom:10px}/*Botones grandes menus*/
+.dropcap_1 {float:left;background:url(../images/dropcap_1.png)  0 0 no-repeat;width:45px;height:45px;text-align:center;font-size:33px;line-height:42px;color:#fff;font-weight:700;margin-right:15px;margin-top:2px;margin-bottom:10px}/*Botones grandes menus*/
 .address span {float:left;width:88px}
 .address a {text-decoration:underline}
 /* ============================= footer ====================== */
