@@ -34,7 +34,7 @@ header {height:179px}
 #menu  {padding-top:30px}
 #menu > li  {float:left;padding-right:5px}
 #menu .last {padding-right:0px}
-#menu > li > a {width:188px;display:block;font-size:17px;color:#fff;text-transform:uppercase;font-weight:400;height:61px;line-height:58px;border-top:1px solid #1f1f1f;background:#000;text-align:center;border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;-webkit-border-radius:4px 4px 0 0;position:relative}
+#menu > li > a {width:188px;display:block;font-size:15px;color:#fff;text-transform:uppercase;font-weight:400;height:61px;line-height:58px;border-top:1px solid #1f1f1f;background:#000;text-align:center;border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;-webkit-border-radius:4px 4px 0 0;position:relative}
 #menu > li > a:hover, #menu > .active > a {background:#4169a4;border-color:#2f9cba} /*color de los bloques superiores de la pagina*/
 #menu > li > a span {display:block;position:relative}
 #slider {position:absolute;top:250px;left:0;width:100%;height:453px;overflow:hidden;z-index:1} /*ubicacion imagenes cambiantes*/
