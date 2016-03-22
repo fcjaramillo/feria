@@ -14,6 +14,7 @@ body {background:url(../images/bg_top.png) 0 0 repeat-x #000;border:0;font:14px 
 .main {margin:0 auto;	width:960px;position:relative}
 /*.bg1 {background:#090909}*/
 .bg1 {background:#c88928} /*background segundo contenido*/
+/*.bg1 {background:#c88928; width:960px; margin-left: auto; margin-right: auto} /*background segundo contenido*/
 /* ============================= main layout ====================== */
 a {color:#00a5e6;text-decoration:none;outline:none} /*color de los titulos de los menus y titulos botones paginas principal*/
 a:hover {color:#fff}
@@ -23,7 +24,6 @@ h3 {font-size:27px;color:#fff;font-weight:700;line-height:1.2em;padding:33px 0 1
 h3.color1 {padding:0 0 7px 0}
 h5 {padding:39px 0 0 250px;float:none}
 p {padding-bottom:24px}
-p2 {color:#000;text-decoration:none;outline:none}
 /* ============================= header ====================== */
 header {height:179px}
 #page1 header {height:690px} /*tamaño pagina*/ 
