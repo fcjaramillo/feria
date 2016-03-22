@@ -61,14 +61,16 @@ header {height:179px}
 .no_pad { padding-bottom:0}
 .color1 {color:#00a5e6} /*color de los titulos de los menus paginas secundarias*/
 .color2 {color:#fff}
+/*.color3 {color:#000; text-align:justify} todo justificado de color negro*/
 .color3 {color:#000}
-.button1 {display:inline-block;font-size:22px;color:#fff;padding:0 18px;background:#00a5e6;height:45px;line-height:44px;position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;letter-spacing:-1px;margin-top:-4px} /*color de los botones de los menus secundarios*/
+.color4 {color:#4169a4} 
+.button1 {display:inline-block;font-size:22px;color:#fff;padding:0 18px;background:#4169a4;height:45px;line-height:44px;position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;letter-spacing:-1px;margin-top:-4px} /*color de los botones de los menus secundarios*/
 .button1:hover {background:#fff;color:#000}
 .list1{}
-.list1 a {color:#808080;padding-left:15px;background:url(../images/marker_1.png) 0 5px no-repeat}/*Botones pequeños menus*/
+.list1 a {color:#808080;padding-left:15px;background:url(../images/marker_2.png) 0 5px no-repeat}/*Botones pequeños menus*/
 .list1 a:hover {color:#00a5e6}/*no se q hace creo q son los email de contactos */
 .list2{}
-.list2 li {padding-left:15px;background:url(../images/marker_1.png) 0 9px no-repeat;padding-bottom:12px}/*Botones pequeños menus*/
+.list2 li {padding-left:15px;background:url(../images/marker_2.png) 0 9px no-repeat;padding-bottom:12px}/*Botones pequeños menus*/
 figure {padding-top:2px}
 .dropcap_1 {float:left;background:url(../images/dropcap_1.png)  0 0 no-repeat;width:47px;height:47px;text-align:center;font-size:33px;line-height:42px;color:#fff;font-weight:700;margin-right:15px;margin-top:2px;margin-bottom:10px}/*Botones grandes menus*/
 .address span {float:left;width:88px}
