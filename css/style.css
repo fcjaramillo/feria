@@ -70,7 +70,7 @@ header {height:179px}
 .list1 a {color:#808080;padding-left:15px;background:url(../images/marker_2.png) 0 5px no-repeat}/*Botones pequeños menus*/
 .list1 a:hover {color:#00a5e6}/*no se q hace creo q son los email de contactos */
 .list2{}
-.list2 li {padding-left:15px;background:url(../images/marker_2.png) 0 9px no-repeat;padding-bottom:12px}/*Botones pequeños menus*/
+.list2 li {padding-left:15px;background:url(../images/marker_2.png) 0 9px no-repeat;padding-bottom:0px}/*Botones pequeños menus*/
 figure {padding-top:2px}
 .dropcap_1 {float:left;background:url(../images/dropcap_1.png)  0 0 no-repeat;width:47px;height:47px;text-align:center;font-size:33px;line-height:42px;color:#fff;font-weight:700;margin-right:15px;margin-top:2px;margin-bottom:10px}/*Botones grandes menus*/
 .address span {float:left;width:88px}
