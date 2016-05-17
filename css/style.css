@@ -19,8 +19,10 @@ body {background:url(../images/bg_top1.png) 0 0 repeat-x #fff;border:0;font:14px
 a {color:#00a5e6;text-decoration:none;outline:none} /*color de los titulos de los menus y titulos botones paginas principal*/
 a:hover {color:#fff}
 h1 {padding:39px 0 0 10px;float:left}
-h2 {font-size:33px;color:#fff;font-weight:700;line-height:1.2em;padding:30px 0 11px 0;letter-spacing:-1px}
-h3 {font-size:27px;color:#fff;font-weight:700;line-height:1.2em;padding:33px 0 17px 0;letter-spacing:-1px}
+h2 {font-size:33px;color:#000;font-weight:700;line-height:1.2em;padding:30px 0 11px 0;letter-spacing:-1px}
+h3 {font-size:27px;color:#000;font-weight:700;line-height:1.2em;padding:33px 0 17px 0;letter-spacing:-1px}
+h3.color1 {padding:0 0 7px 0}
+h4 {font-size:27px;color:#fff;font-weight:700;line-height:1.2em;padding:33px 0 17px 0;letter-spacing:-1px}
 h3.color1 {padding:0 0 7px 0}
 h5 {padding:39px 0 0 160px;float:none}
 p {padding-bottom:24px}
@@ -64,6 +66,7 @@ header {height:179px}
 /*.color3 {color:#000; text-align:justify} todo justificado de color negro*/
 .color3 {color:#000}
 .color4 {color:#4169a4} 
+.color5 {color:#ff9203} 
 .button1 {display:inline-block;font-size:22px;color:#fff;padding:0 18px;background:#4169a4;height:45px;line-height:44px;position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;letter-spacing:-1px;margin-top:-4px} /*color de los botones de los menus secundarios*/
 .button1:hover {background:#fff;color:#000}
 .list1{}
