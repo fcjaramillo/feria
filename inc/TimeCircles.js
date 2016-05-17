@@ -816,7 +816,7 @@
         start: true,
         animation: "smooth",
         count_past_zero: true,
-        circle_bg_color: "#CFD8DC",//color del circulo
+        circle_bg_color: "#fff",//color del circulo
         use_background: true,
         fg_width: 0.1,
         bg_width: 1.2,
@@ -829,22 +829,22 @@
             Days: {
                 show: true,
                 text: "Dias",
-                color: "#516ca4"
+                color: "#36fd08"
             },
             Hours: {
                 show: true,
                 text: "Horas",
-                color: "#a74f2c"
+                color: "#0864fd"
             },
             Minutes: {
                 show: true,
                 text: "Minutos",
-                color: "#bd882f"
+                color: "#fc0404"
             },
             Seconds: {
                 show: true,
                 text: "Segundos",
-                color: "#79a06b"
+                color: "#efb400"
             }
         }
     };
