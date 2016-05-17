@@ -79,9 +79,9 @@ figure {padding-top:2px}
 footer  {padding:49px 20px 0;height:150px}
 footer a {color:#808080}
 footer a:hover {color:#fff}
-#icons {width:184px;float:right}
+#icons {width:184px; margin:0 auto}
 #icons li {float:left;padding-right:10px}
-#icons .first {float:none;font-size:23px;color:#fff;font-weight:400;line-height:1.2em;margin-top:-15px;letter-spacing:-1px;padding-bottom:9px}
+#icons .first {float:none;font-size:23px;color:#000;font-weight:400;line-height:1.2em;margin-top:-15px;letter-spacing:-1px;padding-bottom:9px}
 /* Tooltips */
 .aToolTip  {background:#00a5e6;color:#fff;	margin:0;padding:2px 10px 3px;font-size:12px;line-height:1.2em;position:absolute}
 .aToolTip .aToolTipContent  {position:relative;	margin:0;padding:0}
