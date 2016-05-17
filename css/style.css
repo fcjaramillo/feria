@@ -7,13 +7,13 @@ mark, rp, rt, ruby, summary, time {display:inline}
 .center {float: center}
 .wrapper {width:100%;overflow:hidden}
 /* Global properties ======================================================== */
-body {background:url(../images/bg_top1.png) 0 0 repeat-x #000;border:0;font:14px Arial, Helvetica, sans-serif;color:#808080;line-height:24px;min-width:980px}/*cambia el color de las letras de todos los textos, la imagen tiene la linea verde*/
+body {background:url(../images/bg_top1.png) 0 0 repeat-x #fff;border:0;font:14px Arial, Helvetica, sans-serif;color:#808080;line-height:24px;min-width:980px}/*cambia el color de las letras de todos los textos, la imagen tiene la linea verde*/
 .ic, .ic a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 .css3{border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);position:relative}
 /* Global Structure ============================================================= */
 .main {margin:0 auto;	width:960px;position:relative}
 /*.bg1 {background:#090909}*/
-.bg1 {background:#c88928} /*background segundo contenido*/
+.bg1 {background:#1a388c} /*background segundo contenido
 /*.bg1 {background:#c88928; width:960px; margin-left: auto; margin-right: auto} /*background segundo contenido*/
 /* ============================= main layout ====================== */
 a {color:#00a5e6;text-decoration:none;outline:none} /*color de los titulos de los menus y titulos botones paginas principal*/
@@ -22,20 +22,20 @@ h1 {padding:39px 0 0 10px;float:left}
 h2 {font-size:33px;color:#fff;font-weight:700;line-height:1.2em;padding:30px 0 11px 0;letter-spacing:-1px}
 h3 {font-size:27px;color:#fff;font-weight:700;line-height:1.2em;padding:33px 0 17px 0;letter-spacing:-1px}
 h3.color1 {padding:0 0 7px 0}
-h5 {padding:39px 0 0 250px;float:none}
+h5 {padding:39px 0 0 160px;float:none}
 p {padding-bottom:24px}
 /* ============================= header ====================== */
 header {height:179px}
 #page1 header {height:690px} /*tamaño pagina*/ 
-#logo {display:block;text-indent:-9999px;background:url(../images/logo1.png) 0 0 no-repeat;width:400px;height:125px}
+#logo {display:block;text-indent:-9999px;background:url(../images/NEWFERIA.png) 0 0 no-repeat;width:700px;height:125px}
 #search {float:right;padding:50px 10px 0 0 }
 #search .bg {background:url(../images/search.png) 0 0 no-repeat;width:220px;height:23px}
 #search .input {background:none;padding:3px 13px;font:14px Arial, Helvetica, sans-serif;color:#000;height:17px;width:194px;margin:0}
 #menu  {padding-top:30px}
 #menu > li  {float:left;padding-right:5px}
 #menu .last {padding-right:0px}
-#menu > li > a {width:188px;display:block;font-size:15px;color:#fff;text-transform:uppercase;font-weight:400;height:61px;line-height:58px;border-top:1px solid #1f1f1f;background:#000;text-align:center;border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;-webkit-border-radius:4px 4px 0 0;position:relative}
-#menu > li > a:hover, #menu > .active > a {background:#4169a4;border-color:#2f9cba} /*color de los bloques superiores de la pagina*/
+#menu > li > a {width:188px;display:block;font-size:15px;color:#fff;text-transform:uppercase;font-weight:400;height:61px;line-height:58px;border-top:1px solid #1f1f1f;background:#3F51B5;text-align:center;border-radius:4px 4px 0 0;-moz-border-radius:4px 4px 0 0;-webkit-border-radius:4px 4px 0 0;position:relative}
+#menu > li > a:hover, #menu > .active > a {background:#172779;border-color:#2f9cba} /*color de los bloques superiores de la pagina*/
 #menu > li > a span {display:block;position:relative}
 #slider {position:absolute;top:270px;left:0;width:100%;height:453px;overflow:hidden;z-index:1} /*ubicacion imagenes cambiantes*/
 .items {display:none}
