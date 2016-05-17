@@ -816,7 +816,7 @@
         start: true,
         animation: "smooth",
         count_past_zero: true,
-        circle_bg_color: "#ffffff",//color del circulo
+        circle_bg_color: "#CFD8DC",//color del circulo
         use_background: true,
         fg_width: 0.1,
         bg_width: 1.2,
