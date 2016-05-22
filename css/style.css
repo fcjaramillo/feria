@@ -68,7 +68,9 @@ header {height:179px}
 .color4 {color:#4169a4} 
 .color5 {color:#ff9203} 
 .button1 {display:inline-block;font-size:22px;color:#fff;padding:0 18px;background:#4169a4;height:45px;line-height:44px;position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;letter-spacing:-1px;margin-top:-4px} /*color de los botones de los menus secundarios*/
-.button1:hover {background:#fff;color:#000}
+.button1:hover {background:#000;color:#000}
+.button2 {display:inline-block;font-size:22px;color:#fff;padding:0 18px;background:#4169a4;height:45px;line-height:44px;position:relative;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;letter-spacing:-1px;margin-top:-4px} /*color de los botones de los menus secundarios*/
+.button2:hover {background:#ff9203;color:#fff}
 .list1{}
 .list1 a {color:#808080;padding-left:15px;background:url(../images/marker_2.png) 0 5px no-repeat}/*Botones pequeños menus*/
 .list1 a:hover {color:#00a5e6}/*no se q hace creo q son los email de contactos */
